@@ -1,0 +1,32 @@
+[
+  {
+    "id": 0,
+    "name": "Maruti Suzuki 800",
+    "quantity": 20,
+    "price/km": 5000
+  },
+  {
+    "id": 1,
+    "name": "Mahindra Thar",
+    "quantity": 5,
+    "price/km": 10000
+  },
+  {
+    "id": 2,
+    "name": "Mercedes Benz",
+    "quantity": 1,
+    "price/km": 70000
+  },
+  {
+    "id": 3,
+    "name": "Tata Nano",
+    "quantity": 50,
+    "price/km": 1000
+  },
+  {
+    "id": 4,
+    "name": "Scorpio",
+    "quantity": 30,
+    "price/km": 4000
+  }
+]

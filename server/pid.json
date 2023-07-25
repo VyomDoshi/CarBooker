@@ -1,0 +1,22 @@
+[
+    {
+        "pid": 20888,
+        "port": 8001,
+        "status": "master"
+    },
+    {
+        "pid": 6572,
+        "port": 8002,
+        "status": "slave"
+    },
+    {
+        "pid": 3644,
+        "port": 8003,
+        "status": "slave"
+    },
+    {
+        "pid": 14076,
+        "port": 8004,
+        "status": "slave"
+    }
+]
